@@ -1,0 +1,9 @@
+---
+model:
+  db:
+    connect_info:
+      dsn: 'dbi:mysql:lily'
+      username: root
+      password:
+      connection_options:
+
